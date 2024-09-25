@@ -3,8 +3,8 @@ Using iModels models on a binary classification task to see how they work.
 
 ## RuleFit Visualization: 
 
-<img width="781" alt="image" src="https://github.com/user-attachments/assets/283ea90d-a1d2-4ba7-baa9-96f89c143c5c">
+<img width="1021" alt="image" src="https://github.com/user-attachments/assets/c76abb85-7c8c-4a5a-8842-3ccf5e3d84e0">
 
 ## BoostedRules Classifier Visualization 
 
-<img width="1019" alt="image" src="https://github.com/user-attachments/assets/7f26264c-fa84-43f2-b836-e0ff6d1fc644">
+<img width="1027" alt="image" src="https://github.com/user-attachments/assets/7bb22a27-7ac0-453f-b948-334ac63e71d6">

@@ -7,4 +7,4 @@ Using iModels models on a binary classification task to see how they work.
 
 ## BoostedRules Classifier Visualization 
 
-<img width="1027" alt="image" src="https://github.com/user-attachments/assets/7bb22a27-7ac0-453f-b948-334ac63e71d6">
+<img width="1024" alt="image" src="https://github.com/user-attachments/assets/c0ba4981-6acd-4fd4-87eb-04f0aea8f33c">
